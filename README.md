@@ -1,0 +1,1 @@
+A library management software where admin can Add Book, Display Books, Delete Book, Search Book, Update Book and librarian can add/view books, issue, view issued books and return books by serach using id, title and author.
