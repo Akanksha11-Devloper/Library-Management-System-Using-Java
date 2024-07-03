@@ -1,1 +1,1 @@
-A library management software where admin can Add Book, Display Books, Delete Book, Search Book, Update Book and librarian can add/view books, issue, view issued books and return books by serach using id, title and author.
+The Library Management System is a simple Java application that allows users to manage a collection of books. It provides functionalities to add, display, delete, search, and update books in the library. The system follows a Model-View-Controller (MVC) design pattern to separate the concerns of data management, user interface, and application logic.
